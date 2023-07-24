@@ -76,7 +76,7 @@
   },
   "app_desc_short": "Aplikacja webowa dla Mastodon",
   "app_logo": "Elk Logo",
-  "app_name": "Elk",
+  "app_name": "Stag",
   "attachment": {
     "edit_title": "Opis",
     "remove_label": "Usuń załącznik"
@@ -331,8 +331,8 @@
       },
       "release": {
         "description": "Aplikacja webowa dla Mastodon",
-        "name": "Elk",
-        "short_name": "Elk"
+        "name": "Stag",
+        "short_name": "Stag"
       }
     }
   },

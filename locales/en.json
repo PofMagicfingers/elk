@@ -77,7 +77,7 @@
   },
   "app_desc_short": "A nimble Mastodon web client",
   "app_logo": "Elk Logo",
-  "app_name": "Elk",
+  "app_name": "Stag",
   "attachment": {
     "edit_title": "Description",
     "remove_label": "Remove attachment"
@@ -351,8 +351,8 @@
       },
       "release": {
         "description": "A nimble Mastodon web client",
-        "name": "Elk",
-        "short_name": "Elk"
+        "name": "Stag",
+        "short_name": "Stag"
       }
     }
   },

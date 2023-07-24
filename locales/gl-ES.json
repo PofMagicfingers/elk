@@ -75,7 +75,7 @@
   },
   "app_desc_short": "Un cliente web áxil para Mastodon",
   "app_logo": "Logo de Elk",
-  "app_name": "Elk",
+  "app_name": "Stag",
   "attachment": {
     "edit_title": "Descrición",
     "remove_label": "Quitar o anexo"
@@ -327,8 +327,8 @@
       },
       "release": {
         "description": "Un cliente áxil para Mastodon",
-        "name": "Elk",
-        "short_name": "Elk"
+        "name": "Stag",
+        "short_name": "Stag"
       }
     }
   },

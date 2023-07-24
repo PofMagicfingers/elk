@@ -76,7 +76,7 @@
   },
   "app_desc_short": "منصة تواصل ماستودون رشيقة",
   "app_logo": "Elk شعار",
-  "app_name": "Elk",
+  "app_name": "Stag",
   "attachment": {
     "edit_title": "وصف",
     "remove_label": "قم بإزالة المرفق"
@@ -330,8 +330,8 @@
       },
       "release": {
         "description": "نسخة ويب رشيقة لماستودون",
-        "name": "Elk",
-        "short_name": "Elk"
+        "name": "Stag",
+        "short_name": "Stag"
       }
     }
   },

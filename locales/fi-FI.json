@@ -73,7 +73,7 @@
   },
   "app_desc_short": "Ketterä web-sovellus Mastodonille",
   "app_logo": "Elk logo",
-  "app_name": "Elk",
+  "app_name": "Stag",
   "attachment": {
     "edit_title": "Kuvaus",
     "remove_label": "Poista liite"
@@ -264,8 +264,8 @@
       },
       "release": {
         "description": "Ketterä web-sovellus Mastodonille",
-        "name": "Elk",
-        "short_name": "Elk"
+        "name": "Stag",
+        "short_name": "Stag"
       }
     }
   },

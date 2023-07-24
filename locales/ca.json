@@ -75,7 +75,7 @@
   },
   "app_desc_short": "Un client web àgil Mastodon",
   "app_logo": "Logotip d'Elk",
-  "app_name": "Elk",
+  "app_name": "Stag",
   "attachment": {
     "edit_title": "Descripció",
     "remove_label": "Elimina el fitxer adjunt"
@@ -299,8 +299,8 @@
       },
       "release": {
         "description": "Un client web àgil Mastodon",
-        "name": "Elk",
-        "short_name": "Elk"
+        "name": "Stag",
+        "short_name": "Stag"
       }
     }
   },

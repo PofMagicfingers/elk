@@ -76,7 +76,7 @@
   },
   "app_desc_short": "軽快なMastodonウェブクライアント",
   "app_logo": "Elkのロゴ",
-  "app_name": "Elk",
+  "app_name": "Stag",
   "attachment": {
     "edit_title": "説明文",
     "remove_label": "添付を削除"
@@ -332,8 +332,8 @@
       },
       "release": {
         "description": "軽快なMastodonウェブクライアント",
-        "name": "Elk",
-        "short_name": "Elk"
+        "name": "Stag",
+        "short_name": "Stag"
       }
     }
   },

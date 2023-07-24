@@ -76,7 +76,7 @@
   },
   "app_desc_short": "Isang mabilis na web client ng Mastodon",
   "app_logo": "Logo ng Elk",
-  "app_name": "Elk",
+  "app_name": "Stag",
   "attachment": {
     "edit_title": "Paglalarawan",
     "remove_label": "Tanggalin ang attachment"
@@ -329,8 +329,8 @@
       },
       "release": {
         "description": "Isang mabilis na Mastodon web client",
-        "name": "Elk",
-        "short_name": "Elk"
+        "name": "Stag",
+        "short_name": "Stag"
       }
     }
   },

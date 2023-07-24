@@ -1,9 +1,10 @@
 import { createResolver, useNuxt } from '@nuxt/kit'
 import { isCI, isDevelopment, isWindows } from 'std-env'
-import { isPreview } from './config/env'
-import { i18n } from './config/i18n'
-import { pwa } from './config/pwa'
+
 import type { BuildInfo } from './types'
+import { i18n } from './config/i18n'
+import { isPreview } from './config/env'
+import { pwa } from './config/pwa'
 
 const { resolve } = createResolver(import.meta.url)
 
@@ -213,11 +214,11 @@ export default defineNuxtConfig({
         { property: 'og:title', content: 'Elk' },
         { property: 'og:description', content: 'A nimble Mastodon web client' },
         { property: 'og:type', content: 'website' },
-        { property: 'og:image', content: 'https://elk.zone/elk-og.png' },
+        { property: 'og:image', content: 'https://stag.gicma.dev/elk-og.png' },
         { property: 'og:image:width', content: '3800' },
         { property: 'og:image:height', content: '1900' },
-        { property: 'og:site_name', content: 'Elk' },
-        { property: 'twitter:site', content: '@elk_zone' },
+        { property: 'og:site_name', content: 'Stag' },
+        { property: 'twitter:site', content: '@gicmadev' },
         { property: 'twitter:card', content: 'summary_large_image' },
       ],
     },

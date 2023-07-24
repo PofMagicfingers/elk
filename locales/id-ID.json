@@ -73,7 +73,7 @@
   },
   "app_desc_short": "Klien web Mastodon yang gesit",
   "app_logo": "Logo Elk",
-  "app_name": "Elk",
+  "app_name": "Stag",
   "attachment": {
     "edit_title": "Deskripsi",
     "remove_label": "Hapus lampiran"
@@ -262,8 +262,8 @@
       },
       "release": {
         "description": "Klien web Mastodon yang gesit",
-        "name": "Elk",
-        "short_name": "Elk"
+        "name": "Stag",
+        "short_name": "Stag"
       }
     }
   },
