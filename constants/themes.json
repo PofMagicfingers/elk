@@ -1,5 +1,21 @@
 [
   [
+    "#c52929",
+    {
+      "--theme-color-name": "#c52929",
+      "--c-primary": "rgb(var(--rgb-primary))",
+      "--c-primary-active": "#e75e5e",
+      "--c-primary-light": "#cc242480",
+      "--c-primary-fade": "#c71f1f1a",
+      "--rgb-primary": "197, 41, 41",
+      "--c-dark-primary": "rgb(var(--rgb-dark-primary))",
+      "--c-dark-primary-active": "#9c1616",
+      "--c-dark-primary-light": "#d1292980",
+      "--c-dark-primary-fade": "#cc24241a",
+      "--rgb-dark-primary": "156, 22, 22"
+    }
+  ],
+  [
     "#cc7d24",
     {
       "--theme-color-name": "#cc7d24",
