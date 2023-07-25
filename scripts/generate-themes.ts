@@ -5,7 +5,7 @@ import type { ThemeColors } from '~/composables/settings'
 export const themesColor = [
   '#b82828',
   ...Array.from({ length: 36 }, (_, i) =>
-    chroma.hcl((67.14 + i * 10) % 360, 62.19, 59.56).hex(),
+    chroma.hcl((0 + i * 10) % 360, 62.19, 59.56).hex(),
   ),
 ]
 
